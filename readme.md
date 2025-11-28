@@ -18,7 +18,7 @@ Além disso, o padrão builder descreve uma maneira de separar um objeto de sua 
   Intenção
 É um padrão de design comportamental que permite que um objeto altere seu comportamento quando seu estado interno for alterado. Parece que o objeto mudou de classe.
 
- **Decoretor**
+ - **Decoretor**
 Intenção
 O Decorator é um padrão de design estrutural que permite anexar novos comportamentos aos objetos, colocando-os dentro de objetos especiais do wrapper que contêm os comportamentos.
 
