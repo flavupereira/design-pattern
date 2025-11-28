@@ -1,4 +1,4 @@
-## **design pattern** :computer:
+## **Design pattern** :computer:
 
  **adapter**
 Intenção
