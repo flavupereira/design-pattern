@@ -1,17 +1,17 @@
 ## **Design pattern** :computer:
 
- **adapter**
+ - **adapter**
 Intenção
 Converta a interface de uma classe em outra interface que os clientes esperam. O adapter permite que as classes trabalhem juntas que não poderiam de outra forma por causa de interfaces incompatíveis.
 Agrupe uma classe existente com uma nova interface.
 A impedância corresponde a um componente antigo a um novo sistema
   
-  **Builder**
+  - **Builder**
 O Builder é um padrão de design criacional que permite construir objetos complexos passo a passo. O padrão permite produzir diferentes tipos e representações de um objeto usando o mesmo código de construção.
 
 Além disso, o padrão builder descreve uma maneira de separar um objeto de sua construção. O mesmo método de construção pode criar uma representação diferente do objeto.
 
- **Factory**
+ - **Factory**
   Factory Method é um padrão de design criacional que fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objeto que será criado.
 
  **State**
